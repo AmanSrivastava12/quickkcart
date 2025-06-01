@@ -74,3 +74,7 @@ npm start
 mongod
 
 ```
+
+# Important info
+
+The account I had setup on mailtrap.io didn't let me send emails to any other user email other than the one, I entered during account creation process. I was successfully receiving emails. Image attached in public/images/ directory.
