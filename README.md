@@ -34,8 +34,8 @@ MAILTRAP_DOMAIN=**YOUR-MAILTRAP-DOMAIN**
 # 1. Clone the repository
 
 ```
-git clone https://github.com/AmanSrivastava/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/AmanSrivastava/quickkcart.git
+cd your-repo-name (quickkcart)
 ```
 
 # 2. Frontend dependencies
